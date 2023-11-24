@@ -1,4 +1,9 @@
-## Hi there 👋
+## HousingDevs
+We're a group of developers on Hypixel Housing, creating tools to enhance the experience of the gamemode.
+
+# Our Projects
+
+# The Team
 
 <!--
 

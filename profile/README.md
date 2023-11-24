@@ -1,24 +1,20 @@
-# HousingDevs
-We're a group of developers on Hypixel Housing, creating tools to enhance the experience of the gamemode.
+<div align="center">
+    <h2>HousingDevs</h2>
+    <p>We code helpful tools for the players of Hypixel Housing</p>
+    <a href="https://discord.gg/qGD2ZV5cFa">Discord Server</a>
+</div>
 
-## Our Projects
+## 🔮 About Us
+We started as a simple way to share code & give eachother a hand, but now we all work hand in hand to make some awesome Hypixel Housing tools & technologies!
+We've got quite some folks on board, a quick list:
 
-## The Team
-you
+* ImaDoofus ([HousingEditor](https://github.com/imadoofus/housingeditor))
+* ixNoah ([Hydrogen & ixMod](https://github.com/noahthenerd/))
+* BusterBrown1218 ([HTSL](https://github.com/busterbrown1218/htsl))
+* Sinender ([Redstone Studios](https://github.com/redstone-development))
+* VariousCacti
+* Maxpixels
 
-me
-
-him
-
-maxpixels - Web Developer
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 💡 Projects
+* carpenters.house
+  * A Housing website with tons of tools!

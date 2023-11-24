@@ -13,7 +13,7 @@ We've got quite some folks on board, a quick list:
 * BusterBrown1218 ([HTSL](https://github.com/busterbrown1218/htsl))
 * Sinender ([Redstone Studios](https://github.com/redstone-development))
 * VariousCacti
-* Maxpixels
+* maxpixels
 
 ## 💡 Projects
 * carpenters.house

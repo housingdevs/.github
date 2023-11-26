@@ -12,6 +12,7 @@ We've got quite some folks on board, a quick list:
 * ixNoah ([Hydrogen & ixMod](https://github.com/noahthenerd/))
 * BusterBrown1218 ([HTSL](https://github.com/busterbrown1218/htsl))
 * Sinender ([Redstone Studios](https://github.com/redstone-development))
+* Clovenbob ([Botnet & HypixelEnhanced](https://github.com/Clovenbob/botnet))
 * VariousCacti
 * maxpixels
 

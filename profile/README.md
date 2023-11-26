@@ -13,7 +13,7 @@ We've got quite some folks on board, a quick list:
 * BusterBrown1218 ([HTSL](https://github.com/busterbrown1218/htsl))
 * Sinender ([Redstone Studios](https://github.com/redstone-development))
 * Clovenbob ([Botnet & HypixelEnhanced](https://github.com/Clovenbob/botnet))
-* VariousCacti
+* VariousCacti ([Trigonometry in Housing](https://pastebin.com/u/Variouscacti))
 * maxpixels
 
 ## 💡 Projects

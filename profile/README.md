@@ -19,3 +19,7 @@ We've got quite some folks on board, a quick list:
 ## 💡 Projects
 * carpenters.house
   * A Housing website with tons of tools!
+* Housing Actions
+  * A new JSON standard for Housing Actions!
+* HPM (Housing Packet Manager)
+  * A manager for NPM-like packages in Housing!
